@@ -6,11 +6,12 @@ Time series analysis (ARIMA, SARIMA, ARIMAX) looking at whether community prescr
 - Python 3.9–3.11
 - pip
 
-## How to Run (use the following commands in terminal)
+## How to Run (use the following commands in terminal for mac/linux)
+
 ```bash
 
 python -m venv venv
-venv\bin\activate
+source venv/bin/activate
 pip install -r requirements.txt
 
 ```
